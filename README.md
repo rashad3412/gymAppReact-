@@ -39,3 +39,11 @@ Install all libraries you will use for the project. (Css, Npm, Icons, ext.)
 # GITHUB
 
 - ALWAYS PUSH EVERYTHING TO GITHUB AFTER EACH SESSION !
+
+# Day 1
+
+- Was able to get the navBar complete.
+- challenges i faced with the navBar was using flexbox getting the links align the way i wanted but i figured it out.
+- My Goal was to create a navBar that can toggle back and forth between each link I have.
+- My thinking process was to learn new ways to build a navbar and researching through google and using Youtube help me move forward with that.
+- Moving on to Day 2 do not overthink your work get it done and work at the best of your ability
