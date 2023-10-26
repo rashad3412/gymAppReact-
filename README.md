@@ -10,7 +10,7 @@ Plan,Plan,Plan
 After each sesssion of code Write a brief Summary of what you did and why you did it.
 Create-React-App.
 Build Components and brainstorm how many components you will have for application.
-Install all libraries you will use for the project. (BootStrap, Npm, Icons, ext.)
+Install all libraries you will use for the project. (Css, Npm, Icons, ext.)
 
 # Components
 
@@ -28,7 +28,7 @@ Install all libraries you will use for the project. (BootStrap, Npm, Icons, ext.
 - Think about how the app can be a help to someone why do you think this is important to build.
 - Take your time work on one page at a time and build it to the best of your ability.
 - Have Fun on Day 1 and Day 2.
-- You will be learning something New which is Bootstrap have patience and GO BIG!!!
+- You will be learning new things thoughout the project have patience and GO BIG!!!
 
 # Learning
 
