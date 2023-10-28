@@ -5,7 +5,7 @@ body {
   margin: 0;
   padding: 0;
   height: 10%;
-  background-color: #2f4f4f;
+  background-color: #35647f;
 }
 img {
   width: 150px;
@@ -57,7 +57,7 @@ img {
 .home {
   display: flex;
   justify-content: center;
-  padding: 25px;
+  padding: 5px;
 }
 
 .slogan {
@@ -75,7 +75,7 @@ img {
 .text-heading {
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
+  align-items: center;
   gap: 1.5rem;
   text-transform: uppercase;
   font-family: "Montserrat", sans-serif;
@@ -85,20 +85,24 @@ img {
   padding: 1rem;
   color: #ff9d00;
 }
-
+.logo-pic {
+  display: flex;
+  margin: 1.5rem;
+}
 .span {
   font-size: 1.5rem;
 }
 
 .figures {
   display: flex;
+  justify-content: ;
   gap: 2rem;
 }
 
 .figures > div {
   display: flex;
   flex-direction: column;
-  padding: 15px;
+  padding: 10px;
 }
 
 .figures > div > span:nth-of-type(1) {
@@ -116,13 +120,6 @@ img {
   justify-content: flex-end;
 }
 
-.buttons {
-  display: flex;
-  justify-content: flex-start;
-  padding: 1rem;
-  gap: 1.5rem;
-}
-
 .btn {
   font-family: "Montserrat", sans-serif;
   font-weight: 500;
@@ -131,4 +128,28 @@ img {
   background-color: #ff9d00;
   color: white;
   border-radius: 4rem;
+  cursor: pointer;
+}
+
+.gym-logo {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.gym-pic {
+  width: 300px;
+  height: 450px;
+}
+
+.think-big {
+  display: flex;
+  justify-content: center;
+}
+
+.lorem {
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding: 10px;
+  margin: 10px;
 }

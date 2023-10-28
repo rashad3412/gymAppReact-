@@ -1,25 +1,30 @@
 import React from "react";
-import logo from "../assets/logo.png";
+import gymLogo from "../assets/gymLogo.png";
 
 const Home = () => {
   return (
     <div>
       <div className="home">
-        <span className="slogan"> Welcome to MeezGems</span>
-      </div>
-
-      {/* Text Heading*/}
-      <div className="text-heading">
         <div>
-          <span>Shape </span>
-          <span>Your </span>
+          <span className="slogan"> Welcome to MeezGems</span>
         </div>
-        <div>
-          <span>Ideal Body</span>
-        </div>
-        <div className="span">Me, Myself, and Gems!</div>
       </div>
+      <div>
+        {/* Text Heading*/}
 
+        <div>
+          <div className="text-heading">
+            <div>
+              <span className="span2">Shape </span>
+              <span className="span2">Your </span>
+            </div>
+            <div>
+              <span className="span2">Ideal Body</span>
+            </div>
+            <div className="span">Me, Myself, and Gems!</div>
+          </div>
+        </div>
+      </div>
       {/* Figures*/}
       <div className="figures">
         <div>
@@ -36,9 +41,27 @@ const Home = () => {
         </div>
       </div>
       {/* Buttons*/}
-      <div className="buttons">
-        <button className="btn">Get Started</button>
-        <button className="btn">Learn More</button>
+      <button className="btn">Get Started</button>
+      <button className="btn">Learn More</button>
+      <div>
+        {" "}
+        <div className="lorem">
+          <span>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Magni eaque
+            nobis minima vero quisquam nemo rem non pariatur, doloremque ex
+            aperiam officiis tenetur incidunt harum, recusandae dolorem magnam
+            soluta fugiat placeat iste ea quasi reprehenderit? Fugiat iste
+            laboriosam quasi nobis temporibus ab asperiores eligendi
+            accusantium. Sunt exercitationem quos explicabo minima soluta
+            temporibus cum, reiciendis laborum odit! Sunt adipisci quis
+            quibusdam libero? Nobis enim veniam sit?
+          </span>
+        </div>
+      </div>
+      <div className="gym-logo">
+        <div>
+          <img src={gymLogo} alt="gymLogo" className="gym-pic" />
+        </div>
       </div>
     </div>
   );
