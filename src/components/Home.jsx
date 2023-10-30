@@ -2,6 +2,16 @@ import React from "react";
 import gymLogo from "../assets/gymLogo.png";
 
 const Home = () => {
+  const HandleStart = () => {
+    // Demo for Handle Start Button
+    console.log("Get Started");
+  };
+
+  const HandleLearnMore = () => {
+    // Demo for Handle Learn Button
+    console.log("Learn More");
+  };
+
   return (
     <div>
       <div className="home">
@@ -41,8 +51,12 @@ const Home = () => {
         </div>
       </div>
       {/* Buttons*/}
-      <button className="btn">Get Started</button>
-      <button className="btn">Learn More</button>
+      <button className="btn" onClick={HandleStart}>
+        Get Started
+      </button>
+      <button className="btn" onClick={HandleLearnMore}>
+        Learn More
+      </button>
       <div>
         {" "}
         <div className="lorem">

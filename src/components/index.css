@@ -153,3 +153,33 @@ img {
   padding: 10px;
   margin: 10px;
 }
+
+/* FitnessPage Styling*/
+
+.fitness-text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-transform: uppercase;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+  font-size: 2.5rem;
+  margin: 1rem;
+  padding: 1rem;
+  color: #ff9d00;
+}
+
+.fitness-video {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: -75px;
+}
+
+.fitness-pics {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 10px;
+}
