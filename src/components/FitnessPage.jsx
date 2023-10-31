@@ -23,18 +23,20 @@ const FitnessPage = () => {
           ></video>
         </div>
         <div className="fitness-pics">
-          <img src={fitnessPic1} alt="fitnessPic1" />
+          <div className="fitness-pics">
+            <img src={fitnessPic1} alt="fitnessPic1" />
 
-          <img src={fitnessPic2} alt="fitnessPic1" />
+            <img src={fitnessPic2} alt="fitnessPic1" />
 
-          <img src={fitnessPic3} alt="fitnessPic1" />
+            <img src={fitnessPic3} alt="fitnessPic1" />
 
-          <img
-            src={fitnessPic4}
-            alt="fitnessPic1"
-            width={"152"}
-            height={"226.93"}
-          />
+            <img
+              src={fitnessPic4}
+              alt="fitnessPic1"
+              width={"152"}
+              height={"226.93"}
+            />
+          </div>
         </div>
       </div>
     </section>

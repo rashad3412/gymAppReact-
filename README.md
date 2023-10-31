@@ -54,3 +54,11 @@ Install all libraries you will use for the project. (Css, Npm, Icons, ext.)
 - challenges I faced was understanding how my divs work and flexbox. I eventually figured out how everything was working and how to orgainize my divs.
 - I also feel like I had patience to learn more about my errors and not getting fustrated. I ran into problems with a lot of real estate on the pages as well. I would like to work on filling up the page with content and not leaving a lot of space with nothing.
 - Overall day 2 was a good day and I am proud of my progress.
+
+# Day 3
+
+- Was able to complete part of the fitness page, I was able to get images on the page along with a video.
+- Challenges I faced was trying to line the images up and make the page more responsive. I do understand flex box but still need a little bit more practice with it. Since my time has been limited I have not been able to learn about on my other days. Time management is also a challenge for me as well but. I am trying my hardest to get good rest, and manage my time.
+- Overall it did not take me to much time to get something on the page.
+- I have not worked on the functionality of my project yet that will be the last two days.
+- Rigth now its about getting something on the page making it look presentable and moving forward.
